@@ -1,0 +1,40 @@
+#ho{
+    margin-top: 50px;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+
+.header{
+    text-align: center;
+}
+
+.input{
+    /*direction: rtl;*/
+    margin: 5px 5px 5px 5px !important;
+    width: 98%;
+}
+
+.col-xs-3{
+    width: 25%;
+    height: 50px;
+    padding: 0px !important;
+}
+
+.btn{
+    height: 50px;
+    width: 100% !important;
+    border-radius: 0px;
+}
+
+.row{
+    margin-bottom: 5px;
+}
+
+.ultima{
+    margin-bottom: 15px;
+}
+
+#centro{
+    margin-left: -5px;
+    margin-right: -5px;
+}
